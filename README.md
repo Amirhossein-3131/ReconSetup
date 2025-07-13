@@ -2,7 +2,6 @@
 
 
 
-````markdown
 # ReconSetup
 
 **ReconSetup** is a bash script designed to automate the installation and setup of essential reconnaissance tools for external security assessments and bug bounty hunting.
